@@ -4,6 +4,8 @@
  * CS325
  */
 //////////////////////////////////////////////
+//this concrete class has specific implementations for the talent skill method. it also inherits the identify skill from Skill.Java.
+
 public class TalentSkill extends Skill {
 //Constructor for talent skill, calling on the constructor from the superclass Skill
     public TalentSkill(String name, int skillLevel) {

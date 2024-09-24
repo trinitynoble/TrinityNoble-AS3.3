@@ -4,6 +4,7 @@
  * CS325
  */
 //////////////////////////////////////////////
+//This class is used to display the instances created.
 public class Main {
     public static void main(String[] args) {
 // creating instances for each skill

@@ -3,7 +3,7 @@
  * 22/09/24
  * CS325
  */
-//creating the skill abstract class
+//creating the skill abstract class. this abstract class will allow for inheritance or polymorphism to be able to occur.
 //////////////////////////////////////////////
 public abstract class Skill {
     private String name;

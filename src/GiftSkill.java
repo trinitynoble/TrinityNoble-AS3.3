@@ -4,6 +4,8 @@
  * CS325
  */
 //////////////////////////////////////////////
+//this concrete class has specific implementations for the gift skill method. it also inherits the identify skill from Skill.Java.
+
 public class GiftSkill extends Skill {
 //Constructor for giftskill, calling on the constructor from the superclass Skill
     public GiftSkill(String name, int skillLevel) {

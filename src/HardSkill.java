@@ -4,6 +4,7 @@
  * CS325
  */
 //////////////////////////////////////////////
+//this concrete class has specific implementations for the hard skill method. it also inherits the identify skill from Skill.Java.
 public class HardSkill extends Skill {
 //Constructor for hardskill, calling on the constructor from the superclass Skill
     public HardSkill(String name, int skillLevel) {
